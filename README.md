@@ -6,8 +6,8 @@ This project presents an interactive, visually appealing, and insight-driven Tab
 
 > 🔗 **[Interact with the live Tableau Dashboard here](https://public.tableau.com/views/SuperstoreDashboard_17449892488060/Overview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
-![Overview Dashboard](Assets/Images/Overview Dashboard.png)
-![Details Dashboard](Assets/Images/Details Dashboard.png)
+![Overview Dashboard](Assets/Images/Overview_Dashboard.png)
+![Details Dashboard](Assets/Images/Details_Dashboard.png)
 
 ---
 
