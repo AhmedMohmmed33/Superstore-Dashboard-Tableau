@@ -93,9 +93,7 @@ This calculation assigns a status to each order based on whether it was shipped 
 1. Download the repository and open `Tableau Dashboard.twbx` in Tableau Desktop.
 2. Connect to the **Superstore dataset**.
 3. Explore the interactive dashboards:
-   - `Overview Dashboard` for high-level insights.
-      ➤ Use the **Metric Selector** in the Overview Dashboard to toggle between Sales, Profit, and Orders.
-      ➤ Adjust the **Top N Customers** filter to expand or limit the view.      
+   - `Overview Dashboard` for high-level insights.     
    - `Details Dashboard` for in-depth order analysis.
 
 Or simply use the hosted version here:  
