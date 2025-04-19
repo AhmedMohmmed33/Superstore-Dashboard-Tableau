@@ -83,6 +83,8 @@ This calculation assigns a status to each order based on whether it was shipped 
 |-------------|-------------------------------------|
 | Tableau     | Dashboard design and visual analytics |
 | Excel / CSV | Superstore data source              |
+| Draw.io     | Flowcharts and Logic Diagrams       |
+| Figma       | UI/UX planning                      |
 | GitHub      | Version control and documentation   |
 | Notion      | Project workflow documentation      |
 
